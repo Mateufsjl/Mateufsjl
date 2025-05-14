@@ -33,7 +33,6 @@ echo "<p> Visual: " . ($visual ?  'Sim' : 'Não') . "</p> ";
 ?>
 </body>
 </html>
-</body>
-</html>
+
 
  
